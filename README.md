@@ -7,7 +7,7 @@ to use this you'll need:
 - Python3
 - pandas
 - matplotlib
-- seaborn
+- seaborn 0.9.0
 - numpy 
 - Jupyter Notebooks
 
